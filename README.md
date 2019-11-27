@@ -11,4 +11,3 @@ ingressos. Portanto, o cinema fica com 10% do valor do ingresso.
 O valor do ingresso da primeira fileira é de R$ 20,00, da segunda fileira é R$
 19,00, da terceira fileira é R$ 18,00, e assim por diante (obs: não existirão
 cinemas com mais de 20 fileiras).
- - 

@@ -1,5 +1,5 @@
 # Cinema
-Projeto da cadeira de Introdução a Programação, UFRPE. Sistema de compras e devoluções de assentos para uma sala de um cinema em python.
+Projeto da cadeira de Introdução a Programação, UFRPE. Sistema de compras e devoluções de assentos para uma sala de um cinema em python. (Para rodar o arquivo, basta salvar tudo e rodar o arquivo main.py)
  - O usuário poderá informar um ou mais números de assentos separados por virgula. Por
 exemplo: “10,08” (significa que o usuário quer devolver os assentos 10 e 08), ou “04”
 (significa que o usuário quer devolver o assento 04).
